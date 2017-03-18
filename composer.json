@@ -1,0 +1,18 @@
+{
+  "name": "destiny/hasher",
+  "description": "Md5 support in destiny",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Luoyan",
+      "email": "975974740@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Destiny\\Hasher\\": "src/"
+    }
+  },
+}
