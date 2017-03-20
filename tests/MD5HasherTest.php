@@ -39,7 +39,6 @@ class MD5HasherTest extends TestCase
     {
         $passwordTwo = $this->hasher->make('password', ['salt' => 'luoyan']);
         $password = md5('passwordluoyan');
-
         $this->assertEquals($password, $passwordTwo);
     }
 }
