@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/DestinyLuo/laravel-package-develp-demo.svg?branch=master)](https://travis-ci.org/DestinyLuo/laravel-package-develp-demo)
+
 # This is test Demo
 
 ```angular2html
