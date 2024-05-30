@@ -14,7 +14,6 @@ namespace Destiny\Hasher;
 class MD5Hasher
 {
     /**
-     * test
      * @param $value
      * @param array $options
      * @return string
