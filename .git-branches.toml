@@ -58,7 +58,7 @@ sync-upstream = false
 # The main branch is the branch from which you cut new feature branches,
 # and into which you ship feature branches when they are done.
 # This branch is often called "main", "master", or "development".
-main = "master"
+main = "new-mmogah"
 
 # Perennial branches are long-lived branches.
 # They are never shipped and have no ancestors.
