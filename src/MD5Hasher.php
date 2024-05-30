@@ -39,6 +39,8 @@ class MD5Hasher
         // 判断是否加盐
         // 1
         // 2
+        // 3
+        // sdf
         $salt = isset($options['salt']) ? $options['salt'] : '';
 
         return hash('md5', $value . $salt) == $hashValue;

@@ -66,7 +66,7 @@ main = "master"
 # "development", "staging", "qa", "production", etc.
 #
 # See also the "perennial-regex" setting.
-perennials = ["master"]
+perennials = ["master", "new-mmogah"]
 
 # All branches whose names match this regular expression
 # are also considered perennial branches.
