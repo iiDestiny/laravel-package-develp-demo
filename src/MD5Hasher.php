@@ -37,6 +37,8 @@ class MD5Hasher
     public function check($value, $hashValue, array $options = [])
     {
         // 判断是否加盐
+        // 1
+        // 2
         $salt = isset($options['salt']) ? $options['salt'] : '';
 
         return hash('md5', $value . $salt) == $hashValue;
